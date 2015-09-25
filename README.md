@@ -1,2 +1,2 @@
-# cs-290-Testing
-Testing out GitHub 
+# CS-290-GitHub-Demo
+This is a demo 
